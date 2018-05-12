@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '42937'
     url: http://www.gutenberg.org/2009/agents/42937
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/44644#Philosophy-of-the-Plan-of-SalvationA-Book-for-the-Times
 gutenberg_issued: '2014-01-11'
 gutenberg_type: Text
 identifiers:
